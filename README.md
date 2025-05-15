@@ -1,6 +1,6 @@
 # StegMamba
 
-The code of "WFormer: A Transformer-Based Soft Fusion Model for Robust Image Watermarking"
+The code of "StegMamba: Distortion-free immune-cover for multi-image steganography with state space model"
 
 ## Citation
 
